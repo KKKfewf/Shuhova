@@ -1,15 +1,1 @@
-# Автоматически определять текстовые файлы
 * text=auto
-
-# Для конкретных файлов
-*.txt text
-*.csv text
-*.log text
-*.js text
-*.sh text eol=lf
-*.bat text eol=crlf
-
-# Бинарные файлы
-*.png binary
-*.jpg binary
-*.exe binary
